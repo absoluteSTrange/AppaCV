@@ -1,0 +1,101 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.ac {
+  width: 150px;
+  height: 150px;
+  display: inline;
+}
+
+.bg-1 {
+  background-color: white;
+}
+
+.bg-2 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-4 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-6 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-8 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.sec1para {
+  font-size: 20px;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 0;
+  border-radius: 2px;
+  margin-bottom: 0;
+  font-size: 12px;
+  background: #4169e1;
+}
+
+.navbar-nav li a:hover {
+  color: black;
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.bulletpoints {
+  text-align: center;
+}
+
+.bps {
+  padding-top: 20px;
+  font-size: 18px;
+}
+
+.col-sm-4 {
+  padding-top: 50px;
+}
+
+/* .last2 {
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+
+.list-group-item {
+  text-align: left;
+}
+
+.checked {
+  color: orange;
+}
+
+.fa {
+  float: right;
+}
+
+.fa-star {
+}
+
+.ps {
+  padding-left: 10px;
+}
